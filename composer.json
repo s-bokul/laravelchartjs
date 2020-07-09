@@ -1,0 +1,19 @@
+{
+    "name": "sbokul/laravel-chartjs",
+    "description": "Simple chartJS package for Laravel 5.x using Chartjs v2 library",
+    "keywords": [
+        "chartjs","chart","reports","laravel","laravel5"
+    ],
+    "type": "composer-plugin",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Bokul",
+            "email": "s.bokul@outlook.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.6.4",
+        "illuminate/support": "^5.1|^6.0|^7.0"
+    }
+}
