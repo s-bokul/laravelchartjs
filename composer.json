@@ -1,5 +1,5 @@
 {
-    "name": "sbokul/laravel-chartjs",
+    "name": "s-bokul/laravelchartjs",
     "description": "Simple chartJS package for Laravel 5.x using Chartjs v2 library",
     "keywords": [
         "chartjs","chart","reports","laravel","laravel5"
