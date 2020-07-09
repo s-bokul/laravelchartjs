@@ -4,7 +4,6 @@
     "keywords": [
         "chartjs","chart","reports","laravel","laravel5"
     ],
-    "type": "composer-plugin",
     "license": "MIT",
     "authors": [
         {
