@@ -6,6 +6,17 @@ Simple package to facilitate and automate the use of charts in Laravel 5.x
 using the [Chart.js](http://www.chartjs.org/) v2 library from Nick Downie.
 
 # Setup:
+Add the following protion on composer.json file 
+```json
+"repositories": {
+    "s-bokul/laravelchartjs": {
+        "type": "vcs",
+        "url": "https://github.com/s-bokul/laravelchartjs.git"
+    }
+}
+```
+
+
 ```
 composer require s-bokul/laravelchartjs -n
 ```
