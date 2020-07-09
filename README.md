@@ -7,7 +7,7 @@ using the [Chart.js](http://www.chartjs.org/) v2 library from Nick Downie.
 
 # Setup:
 ```
-composer require fx3costa/laravelchartjs
+composer require s-bokul/laravelchartjs -n
 ```
 
 And add the Service Provider in your file config/app.php:
